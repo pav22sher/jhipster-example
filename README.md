@@ -1,3 +1,9 @@
+### JHipster
+
+JHipster — это генератор кода высокого уровня, основанный на обширном списке передовых инструментов и платформ разработки.
+JHipster Lite - поможет вам начать свой проект, шаг за шагом создавая только то, что вам нужно.
+Yeoman = инструмент для создания внешних строительных лесов(Шаблонного кода)
+
 # jhipsterExample
 
 This application was generated using JHipster 7.9.4, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.9.4](https://www.jhipster.tech/documentation-archive/v7.9.4).
